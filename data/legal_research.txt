@@ -1,0 +1,15 @@
+Geoffrey Hinton is a British-Canadian cognitive psychologist and computer scientist, known as the "Godfather of AI". He worked at Google Brain for over a decade before leaving in 2023. Hinton pioneered deep learning and backpropagation, which became the foundation of modern neural networks.
+
+Yann LeCun is a French-American computer scientist working at Meta AI as Chief AI Scientist. LeCun invented convolutional neural networks (CNNs), which are widely used in image recognition. He studied under Geoffrey Hinton and later collaborated with Yoshua Bengio on deep learning research.
+
+Yoshua Bengio is a Canadian computer scientist and professor at Université de Montréal. He co-founded Mila, the Quebec AI Institute. Bengio, Hinton, and LeCun jointly won the 2018 Turing Award for their work on deep learning.
+
+OpenAI is an AI research company founded in 2015 by Sam Altman, Elon Musk, and others. OpenAI created GPT-4, one of the most powerful large language models. Sam Altman serves as CEO of OpenAI and has been a key figure in AI commercialization.
+
+DeepMind is an AI research lab owned by Alphabet, Google's parent company. DeepMind created AlphaGo, which defeated world champion Go player Lee Sedol in 2016. DeepMind later developed AlphaFold, which solved the protein folding problem.
+
+Transformer architecture was introduced by Google researchers in the 2017 paper "Attention Is All You Need". The paper was co-authored by Ashish Vaswani and colleagues at Google Brain. Transformers replaced recurrent neural networks for most NLP tasks and enabled the development of large language models like GPT and BERT.
+
+LangChain is a framework for building LLM-powered applications, founded by Harrison Chase. It integrates with OpenAI, Anthropic, and other LLM providers. LangChain is widely used for building RAG (Retrieval-Augmented Generation) pipelines.
+
+Anthropic is an AI safety company founded by Dario Amodei and Daniela Amodei, former OpenAI employees. Anthropic created Claude, a large language model focused on safety and helpfulness. Dario Amodei serves as CEO and previously served as VP of Research at OpenAI.

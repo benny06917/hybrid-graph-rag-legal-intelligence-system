@@ -1,0 +1,46 @@
+subject	predicate	object
+OpenAI	USED	RLHF
+OpenAI	RELEASED	ChatGPT
+OpenAI	BUILT	GPT-3.5
+OpenAI	BUILT	GPT-4
+OpenAI	CREATED	GPT-4
+ChatGPT	BUILT_ON	GPT-3.5
+Facebook AI Research	INTRODUCED	Retrieval-Augmented Generation (RAG)
+Retrieval-Augmented Generation (RAG)	COMBINES	language model generation
+Pinecone	USED_IN	RAG systems
+Weaviate	USED_IN	RAG systems
+Chroma	USED_IN	RAG systems
+Neo4j	IS_USED_BY	knowledge graphs
+Microsoft	CREATED	GraphRAG
+GraphRAG	COMBINES	knowledge graphs
+PyTorch Geometric	IS_USED_FOR	GNNs
+DGL	IS_USED_FOR	GNNs
+Geoffrey Hinton	CREATED	neural networks
+Geoffrey Hinton	WORKS_AT	Google Brain
+Geoffrey Hinton	PIONEERED	deep learning
+Geoffrey Hinton	PIONEERED	backpropagation
+Geoffrey Hinton	KNOWN_AS	Godfather of AI
+Google Brain	DEVELOPED	BERT
+Yann LeCun	CREATED	CNNs
+Yann LeCun	WORKS_AT	Meta AI
+Yann LeCun	INVENTED	convolutional neural networks
+Yann LeCun	STUDIED_UNDER	Geoffrey Hinton
+Yann LeCun	COLLABORATED_WITH	Yoshua Bengio
+Yoshua Bengio	WORKS_AT	Université de Montréal
+Yoshua Bengio	CO_FOUNDED	Mila
+Yoshua Bengio	WON	Turing Award
+Sam Altman	SERVES_AS	CEO of OpenAI
+DeepMind	CREATED	AlphaGo
+DeepMind	OWNED_BY	Alphabet
+DeepMind	DEVELOPED	AlphaFold
+DeepMind	DEFEATED	Lee Sedol
+Alphabet	IS_PARENT_OF	Google
+Ashish Vaswani	WORKS_AT	Google Brain
+Ashish Vaswani	CO_AUTHORED	Attention Is All You Need
+Google researchers	INTRODUCED	Transformer architecture
+Transformers	REPLACED	recurrent neural networks
+LangChain	FOUNDED	Harrison Chase
+LangChain	INTEGRATES_WITH	OpenAI
+Anthropic	FOUNDED	Dario Amodei
+Anthropic	FOUNDED	Daniela Amodei
+Dario Amodei	SERVES_AS	CEO of Anthropic
