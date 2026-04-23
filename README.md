@@ -120,13 +120,3 @@ What is the relationship between Anthropic and OpenAI?
 What is GraphRAG and how does it improve on standard RAG?
 ```
 
-## Production Upgrade Path
-
-| Component | This project | Production |
-|---|---|---|
-| Graph store | Neo4j Desktop (local) | Neo4j AuraDB (managed cloud) |
-| Vector store | FAISS (local file) | Pinecone / Weaviate |
-| Ingestion | Synchronous | Async job queue (Celery / Ray) |
-| Re-ranker | Token overlap | cross-encoder/ms-marco-MiniLM-L-6-v2 |
-| Eval | Heuristic | RAGAS / TruLens |
-| Caching | None | Redis (TTL per query pattern) |
